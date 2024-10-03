@@ -1,1 +1,1 @@
-The name's ALT, I often post sloppy code here, though I usually prefer using [Gitlab](https://git.northamp.fr/alt) or [Gitlab](https://gitlab.com/alt4), in that order.
+The name's ALT, I often post sloppy code here, though I usually prefer using [Gitlab](https://gitlab.com/alt4) or my own [SCM instance](https://git.northamp.fr/alt), which used to be a Gitlab and is currently a ForgeJo.
